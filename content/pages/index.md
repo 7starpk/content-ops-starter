@@ -12,7 +12,7 @@ sections:
     actions:
       - label: 7star watches
         altText: ''
-        url: /
+        url: 'https://7star.pk/original_casio_watches_in_pakistan/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
